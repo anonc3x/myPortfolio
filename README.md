@@ -1,2 +1,1 @@
-# myPortfolio
-Cloned From My Original Repository
+# This is My Portfolio Site
